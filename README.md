@@ -1,14 +1,22 @@
 <div align="center">
 
-# 👋 Hi, I'm Yukei Nagata
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/banner.png" width="100%" />
 
-### AI Engineer • Open Source Developer • Full Stack Developer
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+AI+Agents;Creating+Real+World+Products;Open+Source+Developer;Hackathon+Builder;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+Engineer;Open+Source+Developer;Full+Stack+Developer;Building+AI+Agents;Hackathon+Builder" />
 
 <br>
 
+<p>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+</a>
+
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+
+</p>
 
 </div>
 
@@ -16,56 +24,20 @@
 
 # 🚀 About Me
 
-```ts
-const yukei = {
-
-    role: "AI Engineer",
-
-    university: "Ritsumeikan University",
-
-    interests: [
-        "AI Agents",
-        "Open Source",
-        "Full Stack Development",
-        "System Design",
-        "Startups"
-    ],
-
-    currentlyBuilding: [
-        "TripPilot AI",
-        "TripPilot Travel",
-        "FORNEXT"
-    ],
-
-    motto: "Build technology that creates real value."
-}
-```
+- 🎓 Information Science Student
+- 🤖 AI Agent Developer
+- 🌐 Full Stack Developer
+- 💻 Open Source Contributor
+- 🚀 Startup Builder
+- ✈️ Currently building **TripPilot AI**, **TripPilot Travel**, and **FORNEXT**
 
 ---
 
 # ⚡ Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=cs,java,python,js,ts,cpp,html,css"/>
-
-</p>
-
-### Frameworks
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,tailwind,firebase"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,figma"/>
+<img src="https://skillicons.dev/icons?i=cs,java,python,js,ts,react,nextjs,nodejs,dotnet,firebase,tailwind,git,github,docker,linux,vscode,figma"/>
 
 </p>
 
@@ -75,25 +47,15 @@ const yukei = {
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📊 Activity Graph
 
 <p align="center">
 
@@ -103,40 +65,7 @@ const yukei = {
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🤖 TripPilot AI | AI-powered travel planning and reservation assistant |
-| ✈️ TripPilot Travel | Virtual travel booking platform |
-| 🚀 FORNEXT | Startup mentoring platform connecting founders and mentors |
-| 🧠 AI Agent Experiments | Autonomous AI workflows |
-
----
-
-# 🌎 Connect
-
-<p>
-
-<a href="https://github.com/YOUR_USERNAME">
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</a>
-
-</p>
-
----
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -146,10 +75,40 @@ const yukei = {
 
 ---
 
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🚀 FORNEXT | Startup mentoring platform |
+| 🧠 AI Agent Experiments | Autonomous AI workflows |
+
+---
+
+# 🏆 Achievements
+
+- 🚀 Open Source Contributor
+- 💻 AI Agent Developer
+- 🥇 Hackathon Participant
+- 🌏 Building practical AI products
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/ttt112">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
 <div align="center">
 
-### "Code. Build. Innovate."
+### Build. Learn. Share.
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile.
 
 </div>
