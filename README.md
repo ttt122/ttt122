@@ -3,6 +3,11 @@
 # 👋 Hi, I'm Yukei Nagata
 
 ### AI Engineer • Open Source Developer • Full Stack Developer
+<p align="center">
+  <a href="https://github.com/ttt122">
+    <img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+AI+Agents;Open+Source+Developer;Full+Stack+Developer;Hackathon+Builder;Creating+Real+World+Products" />
 
