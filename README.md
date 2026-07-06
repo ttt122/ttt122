@@ -21,7 +21,6 @@
 - 🌐 Full Stack Web Developer
 - 💻 Open Source Contributor
 - 🚀 Startup Builder
-- ✈️ Building **TripPilot AI**, **TripPilot Travel**, and **FORNEXT**
 
 ---
 
@@ -31,14 +30,6 @@
   <img src="https://skillicons.dev/icons?i=cs,java,python,js,ts,react,nextjs,nodejs,dotnet,firebase,tailwind,git,github,docker,linux,vscode,figma" />
 </p>
 
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ttt122&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttt122&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
@@ -62,8 +53,6 @@
 
 | Project | Description |
 |---|---|
-| 🤖 TripPilot AI | AI-powered travel planning and reservation assistant |
-| ✈️ TripPilot Travel | Virtual travel booking platform |
 | 🚀 FORNEXT | Startup mentoring platform |
 | 🧠 AI Agent Experiments | Autonomous AI workflows |
 
